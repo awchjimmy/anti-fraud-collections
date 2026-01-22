@@ -1,3 +1,12 @@
 site_name: 防詐宣導收錄
+nav:
+  - 簡介: index.md
+  - 認識: intro.md
+  - 思考: questions.md
+  - 再認識: revisit.md
+  - 下一步: next.md
+  - 案例收錄: case.md
 theme:
   name: readthedocs
+markdown_extensions:
+  - attr_list
